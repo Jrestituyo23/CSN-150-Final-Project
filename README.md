@@ -13,3 +13,11 @@
 5- DNS Configuration: Disable DoH or DoT in your browser to avoid DNS leaks. Choose a Mullvad DNS server with specific features and set it in the Mikrotik config. Create a mangle rule to route DNS requests through the VPN.
 
 6- Port Forwarding (Optional): Generate a random port from Mullvad's portal for incoming connections. Create a netmap rule for port forwarding to an internal server.
+*********************************************************************************************************-SOURCES-************************************************************************************************************
+YouTube video for Instructions (https://www.youtube.com/watch?v=pec1Ku2G2LE).
+
+Amazon Link to get MikroTik hAP ac lite Dual-concurrent Access Point. (https://www.amazon.com/dp/B019PCF3QY?ref_=cm_sw_r_apin_dp_NA25AAYG4R7T3HKKCRGX&language=en-US).
+
+Instructions and steps for installation and configuration. (https://littlefool.de/posts/mullvad-wireguard-with-routeros-7/)
+
+Link for Mullvad VPN (https://mullvad.net/en)
